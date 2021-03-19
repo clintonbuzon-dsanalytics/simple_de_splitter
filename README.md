@@ -1,6 +1,6 @@
 ## What is it?
 
-**simple_de_splitter** is a Python package that provides fast and flexible way to split large decision engine files. Already packaged as an executable binary file for both Mac and Windows for easy distribution, especially for non technical people.
+**simple_de_splitter** is a Python package that provides fast and flexible way to split large decision engine files. Works with both recommender and optimiser DE files. Already packaged as an executable binary file for both Mac and Windows for easy distribution, especially for non technical people.
 
 Package is build on **pandas** and **pysimplegui**, thus we can add more features related to pandas, especially since most of our data scientists use jupyter and pandas.
 
