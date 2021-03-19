@@ -26,6 +26,10 @@ https://github.com/clintonbuzon-dsanalytics/simple_de_splitter
 
 Main code is on one python file: `simple_de_splitter.py` and then built as an executable binary package using pyinstaller
 
+Executables are already built so that you can immediately download and use the program without building
+  - Mac (Mojave) app is under dist_mac folder
+  - Windows (Windows 10) app is under dist_windows folder
+
 ## Dependencies
 Before building executable file using pyinstaller, we need to install a few python packages on our machine, ideally within a virtual environment
 
@@ -34,9 +38,6 @@ pip install pysimplegui
 pip install pandas
 pip install pyinstaller
 ```
-
-
-
 ## Build instructions
 
 To build packages using pyinstaller, we need both Mac and windows machine to do the build.
